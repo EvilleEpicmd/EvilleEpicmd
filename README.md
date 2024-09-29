@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EvilleEpicmd
-- 👀 I’m interested in medical computing, mostly Epic.
-- 🌱 I’m currently learning general programming approaches, perhaps delving into some of the Epic internals via MUMPS
-- 💞️ I’m looking to collaborate perhaps sometime in the future.
+- 👀 I’m now mostly interested in medical computing, mostly Epic, but started with BASIC, FORTRAN, Turbo Pascal.
+- 🌱 I’m currently exploring new (to me) general programming approaches, understanding databases such as Snowflake. 
+- 💞️ I’m happy to provide a medical perspective on computing problems if you are looking for a medical collaborator.
 - 📫 How to reach me Email at evilledrwho@aol.com
 
 <!---
